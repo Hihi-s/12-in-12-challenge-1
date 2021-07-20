@@ -10,6 +10,7 @@ require("channels")
 require('bootstrap')
 //= require jquery
 //= require bootstrap-sprockets
+//= require bootstrap/dropdown
 
 
 // Uncomment to copy all static images under ../images to the output folder and reference
