@@ -15,6 +15,7 @@
  */
  @import "bootstrap-sprockets";
  @import "bootstrap";
+ 
 
  #logo{
    font-size: 26px;
@@ -37,7 +38,7 @@
     }
   }
   .comments_title{
-    margin-top: 2em;
+    margin-top: 500px;
   }
 
   #comments{
@@ -50,5 +51,6 @@
     }
   }
   
+
 
 }
